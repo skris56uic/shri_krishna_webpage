@@ -5,7 +5,7 @@ title: M.S. Student in Computer Science
 
 # research interests
 
-I am deeply interested in exploring secure distributed systems and their practical applications, inspired by my work on ransomware defense algorithms that protected critical data at scale. I also enjoy delving into accessible web application development, aiming to create inclusive interfaces that align with my experience ensuring W3C compliance at UIC. Additionally, I am passionate about leveraging AI-driven innovations, such as those in my RhythPic project, to enhance user experiences in real-time systems.
+I am passionate about designing and enhancing secure software systems that can handle complex data flows and protect critical information, drawing from my experience with distributed computing and security solutions. I also enjoy crafting user-friendly and accessible web interfaces that improve efficiency and inclusivity, reflecting my work on accessible design systems and frontend development. Additionally, I am keen on exploring innovative applications of artificial intelligence to create engaging and functional tools.
 
 # portfolio
 
