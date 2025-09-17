@@ -9,7 +9,7 @@ I am passionate about designing and enhancing secure software systems that can h
 
 # portfolio
 
-You'll find my [Portfolio](https://krishna-shri.github.io/personal_portfolio/).
+You can find my portfolio [here](https://krishna-shri.github.io/personal_portfolio/).
 
 # contact
 
