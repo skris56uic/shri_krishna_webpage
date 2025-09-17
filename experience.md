@@ -5,15 +5,21 @@ title: M.S. Student in Computer Science
 
 ## Professional Experience
 
+<br>
+
 **UIC Technology Solutions — Frontend Developer**  
 Chicago, Illinois  
 October 2021 – Present  
 Worked on building reusable UI components in VueJS and developed a robust testing framework with Vitest and Chromatic. Focused on improving accessibility by following W3C guidelines and ensuring compliance across applications. Contributed to creating consistent design practices and enhancing overall development workflows.
 
+<br>
+
 **Mediaocean — Software Engineer Intern**  
 Chicago, Illinois  
 June 2025 – August 2025  
 Contributed to the redesign of a scheduling tool by implementing a streamlined filterable grid using Handsontable. Improved user experience by simplifying navigation and workflows. Built a one-click addition feature in ReactJS that automated previously manual processes.
+
+<br>
 
 **Tata Consultancy Services — Full Stack Developer**  
 Bengaluru, Karnataka  
