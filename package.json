@@ -1,10 +1,26 @@
 {
+  "name": "shri_krishna_webpage",
+  "version": "1.0.0",
+  "main": ".eleventy.js",
   "scripts": {
-    "start": "eleventy --serve & npx tailwindcss -i styles/tailwind.css -c styles/tailwind.config.js -o _site/style.css --watch",
-    "build": "ELEVENTY_PRODUCTION=true eleventy && NODE_ENV=production npx tailwindcss -i styles/tailwind.css -c styles/tailwind.config.js -o _site/style.css --minify"
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skris56uic/shri_krishna_webpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skris56uic/shri_krishna_webpage/issues"
+  },
+  "homepage": "https://github.com/skris56uic/shri_krishna_webpage#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.0",
-    "tailwindcss": "^3.0.0"
+    "tailwindcss": "^4.1.13"
   }
 }

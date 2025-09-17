@@ -7,6 +7,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ './_tmp/style.css': './style.css' })
   eleventyConfig.addPassthroughCopy('./*.svg')
   eleventyConfig.addPassthroughCopy('./*.html')
+  eleventyConfig.addPassthroughCopy({'./styles/style.css': './style.css'})
   eleventyConfig.addPassthroughCopy('./photos/*.jpg')
 
   eleventyConfig.addShortcode('version', function () {
